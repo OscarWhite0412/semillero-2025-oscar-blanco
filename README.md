@@ -3,7 +3,7 @@
 ##### zero2hero Coding Academy
 
 En este repositorio se almacena el material trabajdo en el curso
-Disfruta de los scripts en la carpeta: scripts
+Disfruta de los scripts en la carpeta: scripts!!
 
 ##### Grabaciòn de las clases
 1. ---
